@@ -337,16 +337,16 @@ services icons css
 TEAM CSS
 
 *************/
-.team{
+.team {
     padding-top: 50px;
-    padding-bottom:20px;
-    background-color: #e6e6e6;
+    padding-bottom: 20px;
+    background-color: #03a9f4;
 }
 
-.team-box{
+.team-box {
     text-align: center;
     padding: 0px;
-    background-color: #f5f5f5;
+    background-color: #03a9f4;
     border-radius: 4px;
     -webkit-border-radius: 4px;
     position: relative;
@@ -746,7 +746,7 @@ cta
 }
 .footer {
     padding: 50px 0;
-    background-color: #00004d;
+    background-color: #04245e;
 }
 .footer .alo{
     display: block;
@@ -766,7 +766,7 @@ cta
 .footer .copyright{
    display: block;
    color: rgba(255,255,255,0.7);
-   font-size: 
+   font-size: 12px;
 }
 
 /****pricing****/
@@ -807,17 +807,17 @@ cta
     background-color:  #03a9f4;
 }
 /******inner pages******/
-.page-title{
-    background-color: #2B8694;
+.page-title {
+    background-color: #04245e;
     padding-top: 250px;
 }
-.page-title h3{
-      color: #fff;
-  margin: 0px;
-  font-weight: 300;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-}
+    .page-title h3 {
+        color: #03a9f4;
+        margin: 0px;
+        font-weight: 300;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+    }
 .page-title .border-line{
     background-color: #fff;
 }
